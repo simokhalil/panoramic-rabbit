@@ -2,6 +2,6 @@ landing_style: style1-alt
 alt_style: alt
 copyright: '&copy; Hyperspace. All rights reserved.'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: By Khalil EL ISMAILI
+    url: 'https://www.kelyo.fr'
